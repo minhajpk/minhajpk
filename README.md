@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am MD. Minhaz PK, a passionate and skilled MERN stack web developer with expertise in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in developing responsive, scalable, and user-friendly websites that deliver a smooth user experience. With a strong foundation in JavaScript and modern web technologies, I focus on writing clean, maintainable code and following best practices. I enjoy turning ideas into real-world solutions through efficient and dynamic web development. Whether it's building from scratch or improving an existing project, I am committed to delivering high-quality results that meet business goals and user needs.
 
-
+<img src="[banner.png](https://github.com/minhajpk/minhajpk/blob/main/Md.Minhaz%20pk.png)" alt="My Banner" style="width:100%;" />
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdminhaj.pramaniksojib.9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdminhajpk608@gmail.com) 
 
